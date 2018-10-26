@@ -1,0 +1,22 @@
+{
+  "name": "virtualfriends",
+  "version": "1.0.0",
+  "description": "Create a virtual life for you while you discover friends around the world.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guil-ty/virtualfriends.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guil-ty/virtualfriends/issues"
+  },
+  "homepage": "https://github.com/Guil-ty/virtualfriends#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
